@@ -1,0 +1,12 @@
+/*!
+ * Start Bootstrap - Simple Sidebar (https://startbootstrap.com/template/simple-sidebar)
+ * Copyright 2013-2020 Start Bootstrap
+ * Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-simple-sidebar/blob/master/LICENSE)
+ */
+
+@media (min-width: 768px) {
+	.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+		padding-right: 40px;
+		padding-left: 40px;
+	}
+}
